@@ -17,16 +17,6 @@ switch (select) {
     alert("Введено невірний напій");
 }
 
-if (select === "Чай") {
-  alert(select);
-} else if (select === "Кава") {
-  alert(select);
-} else if (select === "Сік") {
-  alert(select);
-} else {
-  alert("Введено невірний напій");
-}
-
 const day = prompt("Введіть день тижня: ");
 
 switch (day) {

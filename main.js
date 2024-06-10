@@ -17,7 +17,8 @@ switch (select) {
     alert("Введено невірний напій");
 }
 
-const day = prompt("Введіть день тижня: ");
+
+const day = prompt("Введіть день тижня(Назву): ");
 
 switch (day) {
   case "Понеділок":
